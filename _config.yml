@@ -17,7 +17,7 @@ title: "Hello. I'm Sean Pham."
 email: 'shpham@andrew.cmu.edu'
 description: "I'm a software developer and designer from Chicago creating useful things for the web."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://spham67.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://spham.com" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'jamigibbs'
 github_username: 'jamigibbs'
 medium_username: 'blog.jamigibbs.com'
@@ -89,8 +89,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
+footer_text: '© 2022 Sean Pham'
+admin_name: 'Sean Pham'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
